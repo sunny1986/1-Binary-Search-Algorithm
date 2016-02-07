@@ -1,4 +1,4 @@
-List of algorithms / programs practiced:
+# List of algorithms / programs practiced:
 
 1. Binary Search Algorithm (JavaScript inplementation)
 2. Selection Sort Algorithm (JavaScript inplementation)
