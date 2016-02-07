@@ -1,3 +1,11 @@
+List of algorithms / programs practiced:
+
+1. Binary Search Algorithm (JavaScript inplementation)
+2. Selection Sort Algorithm (JavaScript inplementation)
+3. 
+
+
+
 # Practice #1 - Binary Search Algorithm
 (Problem statment credits - Khan Academy https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search)
 
