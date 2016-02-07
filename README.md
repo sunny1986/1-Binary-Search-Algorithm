@@ -2,7 +2,6 @@
 
 1. Binary Search Algorithm (JavaScript inplementation)
 2. Selection Sort Algorithm (JavaScript inplementation)
-3. 
 
 
 
